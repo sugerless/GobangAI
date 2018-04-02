@@ -1,0 +1,25 @@
+﻿  五子棋.cpp
+五子棋.cpp(675): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+五子棋.cpp(697): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+五子棋.cpp(796): warning C4101: “num”: 未引用的局部变量
+五子棋.cpp(834): warning C4101: “attack”: 未引用的局部变量
+五子棋.cpp(842): warning C4101: “num”: 未引用的局部变量
+五子棋.cpp(834): warning C4101: “defence”: 未引用的局部变量
+五子棋.cpp(890): warning C4101: “num”: 未引用的局部变量
+五子棋.cpp(886): warning C4101: “rank”: 未引用的局部变量
+五子棋.cpp(930): warning C4101: “flag”: 未引用的局部变量
+五子棋.cpp(967): warning C4101: “mark”: 未引用的局部变量
+五子棋.cpp(1034): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+  正在生成代码
+g:\工作\c语言课设\c语言课设\五子棋 (2)\五子棋\五子棋.cpp(845): warning C4700: 使用了未初始化的局部变量“x”
+g:\工作\c语言课设\c语言课设\五子棋 (2)\五子棋\五子棋.cpp(845): warning C4700: 使用了未初始化的局部变量“y”
+g:\工作\c语言课设\c语言课设\五子棋 (2)\五子棋\五子棋.cpp(798): warning C4700: 使用了未初始化的局部变量“x”
+g:\工作\c语言课设\c语言课设\五子棋 (2)\五子棋\五子棋.cpp(798): warning C4700: 使用了未初始化的局部变量“y”
+  7 of 16 functions (43.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  五子棋.vcxproj -> G:\工作\C语言课设\C语言课设\五子棋 (2)\五子棋\x64\Release\五子棋.exe
